@@ -1,0 +1,5 @@
+{
+  "name": "PSU Issue Report",
+  "description": "A comprehensive issue reporting system for Prince of Songkla University, featuring role-based access, dashboard statistics, and status tracking.",
+  "requestFramePermissions": []
+}
